@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "Next Docs Fullstack App",
 };
 
-export const montserrat = Montserrat({
+const montserrat = Montserrat({
   subsets: ["latin"],
 });
 
